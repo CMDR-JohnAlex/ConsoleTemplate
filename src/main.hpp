@@ -2,11 +2,15 @@
 #ifndef MAIN_HPP
 #define MAIN_HPP
 // User-Defined Headers
+#include "config/config.h"
 
 // 3rd Party Library Headers
 
 // Standard Library Headers
 #include <iostream>
+#include <fstream>
+#include <string>
+#include <cstring> // strcmp();
 
 class MainClass
 {
@@ -21,4 +25,4 @@ public:
 	// Public members of a class A are accessible for all and everyone.
 };
 
-#endif
+#endif // MAIN_HPP

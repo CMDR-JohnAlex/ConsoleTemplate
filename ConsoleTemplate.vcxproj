@@ -143,10 +143,12 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\ANSI\ANSI.h" />
+    <ClInclude Include="src\config\config.h" />
     <ClInclude Include="src\main.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ANSI.md" />
+    <None Include="src\ANSI\ANSI.md" />
     <None Include="AUTHORS.md" />
     <None Include="CHANGELOG.md" />
     <None Include="README.md" />

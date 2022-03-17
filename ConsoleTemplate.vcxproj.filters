@@ -10,6 +10,12 @@
     <Filter Include="data">
       <UniqueIdentifier>{e506e63f-5235-4c0d-baa8-453872cf6ab1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="src\config">
+      <UniqueIdentifier>{90644790-8ad4-44e6-911f-ca43fe6a63e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ANSI">
+      <UniqueIdentifier>{dcc5ab23-65e5-4dd8-a58c-fc92beda18e7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\main.cpp">
@@ -20,12 +26,20 @@
     <ClInclude Include="src\main.hpp">
       <Filter>src</Filter>
     </ClInclude>
+    <ClInclude Include="src\config\config.h">
+      <Filter>src\config</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ANSI\ANSI.h">
+      <Filter>src\ANSI</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
-    <None Include="ANSI.md" />
     <None Include="AUTHORS.md" />
     <None Include="CHANGELOG.md" />
+    <None Include="src\ANSI\ANSI.md">
+      <Filter>src\ANSI</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="LICENSE" />

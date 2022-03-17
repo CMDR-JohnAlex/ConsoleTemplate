@@ -10,9 +10,13 @@
 * Added contrib/
 * Added data/
 * Added src/
+* Added src/ANSI/
+* Added src/ANSI/ANSI.h
+* Added src/ANSI/ANSI.md
+* Added src/config/
+* Added src/config/config.h
 * Added src/main.cpp
 * Added src/main.hpp
-* Added ANSI.md
 * Added AUTHORS.md
 * Added CHANGELOG.md
 * Added ConsoleTemplate.sln
