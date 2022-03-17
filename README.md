@@ -18,6 +18,10 @@
 
 This is the template I use for every new C++ console project.
 
+Please note, if you compile the program for yourself, make sure you move the executable in the root project directory.
+
+Pre-compiled versions should work without moving any files.
+
 ## Documentation
 
 Our Documentation can be found in the code's //comments.
