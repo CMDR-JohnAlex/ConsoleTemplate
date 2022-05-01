@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
 		{
 			std::cout << "Commands: \n";
 			std::cout << "-h or --help        Help Menu\n";
-			std::cout << "-v or --version     Current Version\n";
+			std::cout << "-v or --version     Program Version\n";
 			std::cout << "-c or --copyright   Copyright Notice\n";
 			return 0;
 		}
@@ -39,7 +39,7 @@ int main(int argc, char* argv[])
 			return 0;
 		}
 		std::cout << "Sorry, \"" << argv[1] << "\" is not a command!\n";
-		std::cout << "Please use '-h' for a list of commands\n";
+		std::cout << "Please use '--help' for a list of commands\n";
 		return 1;
 	}
 

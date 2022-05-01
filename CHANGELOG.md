@@ -20,9 +20,6 @@
 * Added AUTHORS.md
 * Added CHANGELOG.md
 * Added ConsoleTemplate.sln
-* Added ConsoleTemplate.vcxproj
-* Added ConsoleTemplate.vcxproj.filters
-* Added ConsoleTemplate.vcxproj.user
 * Added LICENSE
 * Added README.md
 
