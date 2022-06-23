@@ -1,4 +1,4 @@
-﻿# ANSI Escape Sequences
+# ANSI Escape Sequences
 
 Standard escape codes are prefixed with `Escape`:
 
@@ -344,8 +344,8 @@ The parameters for this escape sequence are defined as follows:
 - [bluesock: ansi codes](https://bluesock.org/~willkg/dev/ansi.html)
 - [bash-hackers: Terminal Codes (ANSI/VT100) introduction](http://wiki.bash-hackers.org/scripting/terminalcodes)
 - [XTerm Control Sequences](https://invisible-island.net/xterm/ctlseqs/ctlseqs.html)
-- [VT100 � Various terminal manuals](https://vt100.net/)
-- [xterm.js � Supported Terminal Sequences](https://xtermjs.org/docs/api/vtfeatures/)
+- [VT100   Various terminal manuals](https://vt100.net/)
+- [xterm.js   Supported Terminal Sequences](https://xtermjs.org/docs/api/vtfeatures/)
 
 ## Credit
 

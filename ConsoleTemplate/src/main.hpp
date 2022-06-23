@@ -1,8 +1,9 @@
 // JOHN ALEXANDER LE ROUX
 #ifndef MAIN_HPP
 #define MAIN_HPP
+
 // User-Defined Headers
-#include "config/config.h"
+#include "config/config.hpp"
 
 // 3rd Party Library Headers
 
@@ -10,7 +11,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <cstring> // strcmp();
 
 class MainClass
 {

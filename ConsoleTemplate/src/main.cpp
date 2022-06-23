@@ -1,11 +1,10 @@
 // JOHN ALEXANDER LE ROUX
 #include "main.hpp"
 
-MainClass mainClass;
-
-int main(int argc, char* argv[])
+int main (int argc, char* argv[])
 {
 	// Terminal interaction
+	// --------------------
 	if (argc >= 2)
 	{
 		if (strcmp(argv[1], "-h") == 0 || strcmp(argv[1], "--help") == 0)
@@ -44,6 +43,8 @@ int main(int argc, char* argv[])
 	}
 
 	// Regular interaction
+	// -------------------
 	std::cout << "Hello World!\n";
+
 	return 0;
 }
