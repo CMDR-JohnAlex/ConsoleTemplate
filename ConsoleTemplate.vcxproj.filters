@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{c683ec4f-b20a-41a5-863b-0be9f7bbe3c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ANSI">
+      <UniqueIdentifier>{0bd99ab3-3692-44cd-9532-3ed739d2362b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\config">
+      <UniqueIdentifier>{9a7290a5-72b9-4665-99f1-cd65916ae524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="contrib">
+      <UniqueIdentifier>{383e261d-7a26-47a5-88bf-17d21e9e5c56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data">
+      <UniqueIdentifier>{6b805c19-b6f6-4e3b-9ccb-9d9857d2f7ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\icons">
+      <UniqueIdentifier>{c34ae72c-1e0a-41fb-979d-c4d6ae4c55a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\music">
+      <UniqueIdentifier>{24051fdf-800a-4fe7-9d7f-9b8338922641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\sounds">
+      <UniqueIdentifier>{ad4c3bc9-0daa-469c-a607-09a268702b4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\textures">
+      <UniqueIdentifier>{400f6fa2-597e-4376-ad81-ff2f70b673fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\shaders">
+      <UniqueIdentifier>{e26360f5-fb6c-4b3b-81e6-fccfbda9ed7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\models">
+      <UniqueIdentifier>{de14cbc0-1373-449c-b92e-8af192ce1d22}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\main.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ANSI\ANSI.hpp">
+      <Filter>src\ANSI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\config\config.hpp">
+      <Filter>src\config</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="contrib\placeHolder.txt">
+      <Filter>contrib</Filter>
+    </Text>
+    <Text Include="data\placeHolder.txt">
+      <Filter>data</Filter>
+    </Text>
+    <Text Include="data\icons\placeHolder.txt">
+      <Filter>data\icons</Filter>
+    </Text>
+    <Text Include="data\models\placeHolder.txt">
+      <Filter>data\models</Filter>
+    </Text>
+    <Text Include="data\music\placeHolder.txt">
+      <Filter>data\music</Filter>
+    </Text>
+    <Text Include="data\shaders\placeHolder.txt">
+      <Filter>data\shaders</Filter>
+    </Text>
+    <Text Include="data\sounds\placeHolder.txt">
+      <Filter>data\sounds</Filter>
+    </Text>
+    <Text Include="data\textures\placeHolder.txt">
+      <Filter>data\textures</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\ANSI\ANSI.md">
+      <Filter>src\ANSI</Filter>
+    </None>
+    <None Include="README.md" />
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+    <None Include="AUTHORS.md" />
+    <None Include="CHANGELOG.md" />
+    <None Include="LICENSE" />
+  </ItemGroup>
+</Project>
