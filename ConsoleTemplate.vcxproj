@@ -155,11 +155,18 @@
     <ClInclude Include="src\main.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CHANGELOG.md" />
     <None Include="src\ANSI\ANSI.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="contrib\placeHolder.txt" />
+    <Text Include="data\icons\placeHolder.txt" />
+    <Text Include="data\models\placeHolder.txt" />
+    <Text Include="data\music\placeHolder.txt" />
     <Text Include="data\placeHolder.txt" />
+    <Text Include="data\shaders\placeHolder.txt" />
+    <Text Include="data\sounds\placeHolder.txt" />
+    <Text Include="data\textures\placeHolder.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

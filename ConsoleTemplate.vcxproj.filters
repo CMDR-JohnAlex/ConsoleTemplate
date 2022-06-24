@@ -81,11 +81,6 @@
     <None Include="src\ANSI\ANSI.md">
       <Filter>src\ANSI</Filter>
     </None>
-    <None Include="README.md" />
-    <None Include=".gitattributes" />
-    <None Include=".gitignore" />
-    <None Include="AUTHORS.md" />
     <None Include="CHANGELOG.md" />
-    <None Include="LICENSE" />
   </ItemGroup>
 </Project>
