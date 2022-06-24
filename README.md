@@ -16,7 +16,7 @@
 
 ## About ConsoleTemplate
 
-This is the template I use for every new C++ console project.
+This is the template I use for every new multi project C++ console project.
 
 Please note, if you compile the program for yourself, make sure you move the executable in the root project directory.
 
