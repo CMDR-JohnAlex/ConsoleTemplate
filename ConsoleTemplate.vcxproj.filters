@@ -82,5 +82,8 @@
       <Filter>src\ANSI</Filter>
     </None>
     <None Include="CHANGELOG.md" />
+    <None Include="AUTHORS.md" />
+    <None Include="LICENSE" />
+    <None Include="README.md" />
   </ItemGroup>
 </Project>

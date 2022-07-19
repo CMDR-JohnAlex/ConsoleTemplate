@@ -4,12 +4,11 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/CMDR-JohnAlex/ConsoleTemplate?style=social)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/CMDR-JohnAlex/ConsoleTemplate)
-![Lines of code](https://img.shields.io/tokei/lines/github/CMDR-JohnAlex/ConsoleTemplate)
 ![GitHub repo size](https://img.shields.io/github/repo-size/CMDR-JohnAlex/ConsoleTemplate)
+![GitHub](https://img.shields.io/github/license/CMDR-JohnAlex/ConsoleTemplate)
 
 ![GitHub issues](https://img.shields.io/github/issues/CMDR-JohnAlex/ConsoleTemplate)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/CMDR-JohnAlex/ConsoleTemplate)
-![GitHub](https://img.shields.io/github/license/CMDR-JohnAlex/ConsoleTemplate)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/CMDR-JohnAlex/ConsoleTemplate)
 ![GitHub all releases](https://img.shields.io/github/downloads/CMDR-JohnAlex/ConsoleTemplate/total)
